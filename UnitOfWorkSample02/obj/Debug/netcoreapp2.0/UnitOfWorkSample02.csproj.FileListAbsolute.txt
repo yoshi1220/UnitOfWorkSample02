@@ -1,7 +1,6 @@
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\bin\Debug\netcoreapp2.0\Entities.dll
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\bin\Debug\netcoreapp2.0\Repositories.dll
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\bin\Debug\netcoreapp2.0\Services.dll
-D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.csprojResolveAssemblyReference.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.csproj.CoreCompileInputs.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.AssemblyInfoInputs.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.AssemblyInfo.cs
@@ -17,3 +16,5 @@ D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSa
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.pdb
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\bin\Debug\netcoreapp2.0\Factories.dll
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\bin\Debug\netcoreapp2.0\Factories.pdb
+D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.csprojAssemblyReference.cache
+D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\UnitOfWorkSample02\obj\Debug\netcoreapp2.0\UnitOfWorkSample02.csproj.CopyComplete

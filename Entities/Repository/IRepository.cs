@@ -4,6 +4,11 @@ using System.Linq.Expressions;
 
 namespace Entities
 {
+    /// <summary>
+    /// Repositoryインターフェイス
+    /// データ抽出の条件指定はLinqKitを使用する前提
+    /// </summary>
+    /// <typeparam name="TEntity">モデルを指定する</typeparam>
     public interface IRepository<TEntity> where TEntity : class
     {
         TEntity Get(int id);

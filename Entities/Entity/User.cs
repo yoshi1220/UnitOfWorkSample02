@@ -4,6 +4,9 @@ using System;
 
 namespace Entities
 {
+    /// <summary>
+    /// 単純なユーザーモデル
+    /// </summary>
     [Table("Users")]
     public class User
     {

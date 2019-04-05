@@ -5,9 +5,10 @@ D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\bi
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\bin\Debug\netcoreapp2.0\Repositories.dll
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\bin\Debug\netcoreapp2.0\Entities.pdb
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\bin\Debug\netcoreapp2.0\Repositories.pdb
-D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.csprojResolveAssemblyReference.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.csproj.CoreCompileInputs.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.AssemblyInfoInputs.cache
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.AssemblyInfo.cs
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.dll
 D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.pdb
+D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.csprojAssemblyReference.cache
+D:\MyData\MyDocument\Visual Studio 2017\Projects\UnitOfWorkSample02\Factories\obj\Debug\netcoreapp2.0\Factories.csproj.CopyComplete

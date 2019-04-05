@@ -10,6 +10,7 @@ namespace Repositories
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //データベースとしてSqliteを使用
             var connectionString = new SqliteConnectionStringBuilder { DataSource = @"..\db\UnitOfWorkSample01.db" }.ToString();
             optionsBuilder.UseSqlite(new SqliteConnection(connectionString));
         }
