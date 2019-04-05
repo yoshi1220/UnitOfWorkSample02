@@ -13,15 +13,16 @@ using Castle.DynamicProxy;
 using Autofac.Extras.DynamicProxy;
 using LinqKit;
 
-/// <summary>
-/// RepositoryパターンでのPersistent Frameworkの隠蔽
-/// Unit of workパターンでのトランザクション管理のサンプル
-/// 
-/// DIコンテナとしてAutofacを利用、CastleプロジェクトのDynamicProxyを
-/// 使用して、処理ログを出力
-/// </summary>
+
 namespace UnitOfWorkSample02
 {
+    /// <summary>
+    /// RepositoryパターンでのPersistent Frameworkの隠蔽
+    /// Unit of workパターンでのトランザクション管理のサンプル
+    /// 
+    /// DIコンテナとしてAutofacを利用、CastleプロジェクトのDynamicProxyを
+    /// 使用して、処理ログを出力
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
