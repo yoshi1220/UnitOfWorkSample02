@@ -22,6 +22,8 @@ namespace UnitOfWorkSample02
     /// 
     /// DIコンテナとしてAutofacを利用、CastleプロジェクトのDynamicProxyを
     /// 使用して、処理ログを出力
+    /// 
+    /// データ抽出の条件部はLinqKitを使用し、Linqで条件指定可能にする。
     /// </summary>
     class Program
     {
