@@ -17,6 +17,8 @@ using LinqKit;
 namespace UnitOfWorkSample02
 {
     /// <summary>
+    /// データアクセスのサンプル２
+    /// 
     /// RepositoryパターンでのPersistent Frameworkの隠蔽
     /// Unit of workパターンでのトランザクション管理のサンプル
     /// 
